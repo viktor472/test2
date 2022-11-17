@@ -4,13 +4,13 @@ Hello i am channging this file trew vim :)
 
 ---
 
-###Emoji:
+## Emoji:
 <br>
 :joy::joy::joy::joy::joy::joy:
 
 ---
 
-###Code:
+## Code:
 <br>
 ```js
 for (int i = 0; i < 10; i++){
@@ -20,26 +20,26 @@ console.log("hello")
 
 ---
 
-###Link:
+## Link:
 <br>
 [Title](https://www.example.com)
 
 ---
 
-###Pickture:
+## Pickture:
 <br>
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="drawing" width="200px"/>
 
 ---
 
-###Ul/Li:
+## Ul/Li:
 <br>
 - First item
 - Second item
 - Third item
 - Fourth item
 
-###table:'
+## table:
 <br>
 |Syntax   |Description|
 |---------|-----------|
