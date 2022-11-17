@@ -11,9 +11,9 @@ Emoji:
 
 Code:
 `
-for (int i = 0; i < 10; i++){ <br>
-console.log("hello") <br>
-} <br>
+for (int i = 0; i < 10; i++){
+console.log("hello")
+}
 `
 
 ---
