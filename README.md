@@ -5,7 +5,7 @@ Hello i am channging this file trew vim :)
 ---
 
 Emoji:
-:joy:
+:joy::joy::joy::joy::joy::joy:
 
 ---
 
