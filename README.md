@@ -5,12 +5,14 @@ Hello i am channging this file trew vim :)
 
 ---
 
+
 ## Emoji:
 
 <br>
 :joy::joy::joy::joy::joy::joy:
 
 ---
+
 
 ## Code:
 
@@ -23,12 +25,14 @@ console.log("hello")
 
 ---
 
+
 ## Link:
 
 <br>
 [Title](https://www.example.com)
 
 ---
+
 
 ## Pickture:
 
@@ -37,6 +41,7 @@ console.log("hello")
 
 ---
 
+
 ## Ul/Li:
 
 <br>
@@ -44,6 +49,7 @@ console.log("hello")
 - Second item
 - Third item
 - Fourth item
+
 
 ## table:
 
