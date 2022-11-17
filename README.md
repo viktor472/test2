@@ -25,3 +25,18 @@ Link:
 
 iPickture:
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="drawing" width="200px"/>
+
+---
+
+Ul/Li:
+
+- First item
+- Second item
+- Third item
+- Fourth item
+
+table:
+|Syntax   |Description|
+|---------|-----------|
+|Header   |Titel      |
+|Paragraph|Text       |
