@@ -8,7 +8,6 @@ Hello i am channging this file trew vim :)
 
 ## Emoji:
 
-<br>
 :joy::joy::joy::joy::joy::joy:
 
 ---
@@ -16,7 +15,6 @@ Hello i am channging this file trew vim :)
 
 ## Code:
 
-<br>
 ```js
 for (int i = 0; i < 10; i++){
 console.log("hello")
@@ -28,7 +26,6 @@ console.log("hello")
 
 ## Link:
 
-<br>
 [Title](https://www.example.com)
 
 ---
@@ -36,7 +33,6 @@ console.log("hello")
 
 ## Pickture:
 
-<br>
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="drawing" width="200px"/>
 
 ---
@@ -44,16 +40,16 @@ console.log("hello")
 
 ## Ul/Li:
 
-<br>
 - First item
 - Second item
 - Third item
 - Fourth item
 
+---
+
 
 ## table:
 
-<br>
 |Syntax   |Description|
 |---------|-----------|
 |Header   |Titel      |
