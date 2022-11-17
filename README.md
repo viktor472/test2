@@ -24,5 +24,4 @@ Link:
 ---
 
 iPickture:
-![hello](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png){width=50%}
-<img src="dhttps://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="drawing" width="200"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="drawing" width="200px"/>
