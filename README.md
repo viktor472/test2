@@ -23,10 +23,5 @@ Link:
 
 ---
 
-Pickture:
-![hello](https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 #hello)
-
-img[src*=#hello]{
-width: 150px;
-hight: 150px;
-}
+iPickture:
+![hello](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
