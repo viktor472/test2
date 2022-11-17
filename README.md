@@ -24,4 +24,4 @@ Link:
 ---
 
 iPickture:
-![hello](https://toppng.com/uploads/preview/github-logo-transparent-11659780111lim6tyk2io.png){width=50%}
+![hello](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png){width=50%}
